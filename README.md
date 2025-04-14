@@ -1,7 +1,7 @@
 # 📘 Dataset Description
 its Sales Dataset contains sales transaction records of a retail store. It includes demographic details of customers and information about the products they purchased. This dataset is useful for customer segmentation, sales trend analysis, and marketing strategy insights.
 
-🔍 Analysis Goals
+# 🔍 Analysis Goals
 a. Data Overview
 
 Use .describe() for statistical summary.
